@@ -1,0 +1,4 @@
+It is the number of independent values required to estimate a parameter minus that number of values used in the intermediate steps of the calculation.
+For example, in case of calculation of Variance:
+
+Degrees of freedom = Number of independent scores (N) — Number of parameters used in the intermediate steps (i.e. the sample mean) = N− 1
