@@ -1,0 +1,15 @@
+The Standard deviation (σ) of a dataset is the square root of the variance.
+A high standard deviation means that the observations are spread out over a wider range.
+
+For a normally distributed dataset, the following are true:
+1. ~68% of the dataset lies within ±1 standard deviation of the mean
+2. ~95% of the dataset lies within ±2 standard deviations of the mean
+3. ~99.7% of the dataset lies within ±3 standard deviations of the mean
+
+To revise, let us consider the following dataset:
+2,4,4,4,5,5,7,9
+
+Its mean can be calculated as:
+ The square deviation scores are calculated as:
+ The Variance is calculated as:
+ Finally, the Standard deviation is calculated as :
