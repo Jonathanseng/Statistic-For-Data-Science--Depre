@@ -1,0 +1,6 @@
+The formula for standard deviation and variance used above was in context to a population rather than a sample of the population.
+If the observation values instead were a random sample drawn
+
+from a large parent population, then one uses n − 1 instead of n in the denominator of these formulae to calculate the sample standard deviation and sample variance.
+This is known as Bessel’s correction.
+For the example above, the sample standard deviation (s) is calculated as follows:
