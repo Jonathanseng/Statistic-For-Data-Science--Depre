@@ -1,0 +1,9 @@
+These tests do not account for the assumptions that parametric tests do
+
+note that non parametric tests are less powerful then the parametric test
+
+example are Non Parametric tests are:
+1. Chi Square test
+2. Willcoxcon rank sum test
+3. Kruskal vallis test
+4. Spearman's
