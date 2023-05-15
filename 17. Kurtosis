@@ -1,0 +1,9 @@
+It is a measure of whether the dataset is heavy-tailed or light- tailed as compared to a normal distribution.
+It tells whether there are a large number of outliers/ extreme values in a dataset.
+For a dataset with observations i.e. Y(1), Y(2),Y(3),...,Y(N) , the kurtosis is calculated as:
+
+where:
+!" Y ̄ is the mean
+!" s is the standard deviation
+!" N is the number of observations
+The kurtosis for a standard normal distribution is 3 .
