@@ -1,0 +1,4 @@
+It is the probability of the failure of rejecting the null hypothesis when it is actually false.
+It is also called a False Negative error.
+The probability of making a type-2 error is given by beta (β).
+
