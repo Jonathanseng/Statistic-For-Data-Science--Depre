@@ -1,0 +1,6 @@
+It is the probability of obtaining wrong results when the null hypothesis is true.
+Most commonly, an alpha level (α) of .05 (5%) is considered for an experiment.
+It is the threshold against which we measure the p-value.
+
+!"If the p-value is less than or equal to alpha: we reject the null hypothesis
+!"If the p-value is greater than alpha: we reject the alternative hypothesis
