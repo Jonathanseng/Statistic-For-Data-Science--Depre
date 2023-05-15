@@ -1,0 +1,13 @@
+These tests are used on the sample data that follows the following assumptions.
+
+1. Normality: sample data should belong to a population that allows a normal distribution
+2. Equal Variance: Each group's data should have approximetely equal variance
+3. Independence: each group's data should be randomly and independently sampled from the population
+4. Outliers: there should be no extreme outliers in the data
+
+Examples of parametric tests are:
+1. Linear regression
+2. Logistic regression
+3. t-test
+4. Anova
+5. Pearson ran correlation
