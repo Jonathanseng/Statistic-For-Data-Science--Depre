@@ -1,0 +1,6 @@
+It is the standard deviation of a population’s random sampling distribution of the mean.
+It is also called the standard error of the mean.
+It is equal to the population standard deviation ( σ ) divided by the square root of the size of the samples ( n ).
+
+The standard error is inversely proportional to the square root of the sample size.
+As the sample size ( n ) becomes larger, the more closely will the sample means represent the true population mean.
