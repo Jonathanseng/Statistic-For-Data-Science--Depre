@@ -1,0 +1,13 @@
+Remember the Z-score formula that contained μ (mean of the
+population) and σ (the standard deviation of the population)?
+When the population’s standard deviation is not known (but estimated) and the sample size is small, one uses t-score instead of Z-score.
+
+t-score and z-scores are similar when the sample size is large but this is not true for small sample size.
+
+where:
+!" X is the observation’s value
+!" μ is the sample mean
+!" s is the estimated standard error of the population
+The estimated Standard Error is calculated by dividing a
+
+sample standard error by the square root of the sample size.
