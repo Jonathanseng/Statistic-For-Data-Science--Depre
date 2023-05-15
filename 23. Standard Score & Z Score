@@ -1,0 +1,7 @@
+The Standard score or Z-score measures how far an observation is away in terms of standard deviations from the mean.
+Z-score of an observation can be positive or negative.
+
+where:
+!" μ is the mean of the population
+!" σ is the standard deviation of the population
+The process of calculating the Z-score from an observation’s value is called Standardizing or Normalizing.
