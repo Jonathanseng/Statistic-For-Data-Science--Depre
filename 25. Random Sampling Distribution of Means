@@ -1,0 +1,4 @@
+From a population, obtain multiple random samples and calculate their means.
+Repeat this process infinitely and plot the means in the form of a frequency distribution.
+Such a distribution is called a Random Sampling Distribution of Means.
+
