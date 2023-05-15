@@ -1,0 +1,10 @@
+Range is the difference between the largest and smallest values of measurements in a dataset.
+For example, in a dataset i.e. 1,2,4,3,67 , the range is 67 — 1 = 66.
+Quantiles are points that divide the range of a dataset into continuous intervals of equal class intervals.
+Some common quantiles divide the dataset into the following groups:
+
+1. Quartiles: 4 groups
+
+2. Quintiles: 5 groups
+
+3. Deciles: 10 groups !"Percentiles/ Centiles: 100 groups
