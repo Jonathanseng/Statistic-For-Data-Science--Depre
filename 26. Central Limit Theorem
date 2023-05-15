@@ -1,0 +1,6 @@
+When the random sampling distribution of means is plotted, this distribution will become closer to a normal distribution as the size of the samples increases.
+An infinite number of sample means will plot an ideal normal distribution.
+
+This is true irrespective of the shape of the population distribution
+from which the samples were drawn.
+The population could be having a non-normal distribution but its random sampling distribution of means would still be normal.
