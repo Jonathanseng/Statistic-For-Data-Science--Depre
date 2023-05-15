@@ -1,0 +1,2 @@
+For an observation, its deviation score is calculated by subtracting the dataset’s mean from it.
+For example, in a dataset with a mean of 24 , an observation i.e. 20 has a deviation score of 24 — 20 = 4 .
