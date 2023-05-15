@@ -1,0 +1,3 @@
+When testing a null hypothesis, the probability of obtaining results under the assumption that the null hypothesis is correct.
+The lower the p-value, the greater the statistical significance of the obtained results.
+An experiment’s results that are significant at p-value of <0.05 or 5% means that the probability of the occurrence of the result by chance is 0.05 or less.
