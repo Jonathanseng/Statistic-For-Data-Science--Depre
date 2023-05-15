@@ -1,0 +1,9 @@
+Confidence Interval is given by the formula below:
+
+where:
+!" x is the sample mean
+" z is the confidence value
+!" s is the sample standard deviation !" n is the sample size
+Most commonly used 95% confidence limits are equal to the sum of the sample mean and approx. 2 Standard errors.
+In other words, if one takes repeated random samples from a population, 95% of the time the true population parameter would lie between the confidence limits.
+The difference between the upper and lower bounds of these limits is called the Confidence interval.
