@@ -1,0 +1,7 @@
+The binomial distribution is used to study experiments with only two possible outcomes (success/ failure).
+Such a single success/failure experiment is also called a Bernoulli trial or Bernoulli experiment.
+
+The distribution helps to find the probability of getting the exact number of successes in a series of independent trials.
+The probability of getting exactly k successes in n independent Bernoulli trials is given by the formula:
+
+Need to add the formula
