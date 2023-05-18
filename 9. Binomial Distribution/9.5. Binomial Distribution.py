@@ -19,4 +19,13 @@ def binomial_distribution(n, p):
 
   return probabilities
 
-This code can be used to calculate the probability of getting any number of successes in a binomial distribution. For example, to calculate the probability of getting exactly 5 successes in 10 trials, where the probability of success in each trial is 0.5, you would use the following code:
+#This code can be used to calculate the probability of getting any number of successes in a binomial distribution. For example, to calculate the probability of getting exactly 5 successes in 10 trials, where the probability of success in each trial is 0.5, you would use the following code:
+
+probabilities = binomial_distribution(10, 0.5)
+
+print(probabilities[5])
+
+# This code would print the following output:
+0.24609375
+
+# This means that the probability of getting exactly 5 successes in 10 trials, where the probability of success in each trial is 0.5, is 0.24609375.
