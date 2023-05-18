@@ -1,7 +1,0 @@
-It is a type of asymmetric frequency distribution where one tail is longer than the other tail.
-These distributions can be named according to the tail of the curve. The positively (right) skewed curve has a longer tail on the right. The following curve shows the general relationship between the mean, median and mode for skewed distributions.
-
-Note that the above relationship can fail:
-1. in multimodal distributions
-2. in distributions where one tail is long but the other is heavy
-3. in discrete distributions where the areas to the left and right of the median are not equal
